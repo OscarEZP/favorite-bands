@@ -29,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1926">
-              <caret line="200" column="121" selection-start-line="200" selection-start-column="121" selection-end-line="200" selection-end-column="121" />
+            <state relative-caret-position="288">
+              <caret line="148" column="67" selection-start-line="148" selection-start-column="67" selection-end-line="148" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -233,7 +233,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23570000" />
+    <option name="totallyTimeSpent" value="23610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
@@ -293,8 +293,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1926">
-          <caret line="200" column="121" selection-start-line="200" selection-start-column="121" selection-end-line="200" selection-end-column="121" />
+        <state relative-caret-position="288">
+          <caret line="148" column="67" selection-start-line="148" selection-start-column="67" selection-end-line="148" selection-end-column="67" />
           <folding />
         </state>
       </provider>
